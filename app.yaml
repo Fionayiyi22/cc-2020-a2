@@ -1,0 +1,12 @@
+runtime: php73
+
+handlers:
+        - url: /.*
+          script: auto
+        # - url: /admin.php
+        #   script: admin.php
+        # - url: /admin_upload.php
+        #   script: admin_upload.php
+        # - url: /student.php
+        #   script: student.php
+        
